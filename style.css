@@ -1,0 +1,14 @@
+body {
+    background-color: aliceblue;
+}
+
+canvas {
+    border: 2px teal solid;
+    margin: 100px auto 10px;
+    display: block;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+}
